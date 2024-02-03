@@ -1,0 +1,60 @@
+body {
+    background-color: #B9B7BD;
+}
+
+#beautysalon{
+    width: 100%;
+    height: 100%;
+    display: block;
+    /*elimina el espacio extra debajo de la imagen*/
+    margin: 0 auto;
+    /*centra la imagen horizontalmente*/
+}
+
+.bloque_principal{
+    background-color:#B9B7BD; 
+}
+h1 {
+    padding-left: 30px;
+    text-align: left;
+    font-size: 40px;
+     background-color:#AC989C; 
+} 
+h2 {
+    text-align: center;
+    font-size: 25px;
+     background-color:#AC989C; 
+} 
+p{
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+
+em strong{
+    color: red;
+}
+
+.Diferenciales{
+background-color:#AC989C;
+}
+
+h3{
+    text-align: center;
+}
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{
+    width: 45%;
+    height: 40%;
+}
